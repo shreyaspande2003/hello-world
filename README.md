@@ -1,3 +1,5 @@
 # hello-world
-# My self shreyas pande
+# My self Shreyas Pande
+# I am 18 years old
 # Learning 
+# Exploring
